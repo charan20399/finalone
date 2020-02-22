@@ -1,0 +1,8 @@
+com\sprint1\fms1\dao\ViewDetailsDao.class
+com\sprint1\fms1\model\ScheduleDetails.class
+com\sprint1\fms1\uitil\InvalidFlightIdException.class
+com\sprint1\fms1\service\ViewDetailsService.class
+com\sprint1\fms1\service\ViewDetailsServiceImpl.class
+com\sprint1\fms1\dao\ViewDetailsDaoImpl.class
+com\sprint1\fms1\ui\ViewDetailsUi.class
+com\sprint1\fms1\App.class

@@ -1,0 +1,6 @@
+projectKey=com.sprint1:FlightManagementSystem
+serverUrl=http://localhost:9000
+serverVersion=8.1.0.31237
+dashboardUrl=http://localhost:9000/dashboard?id=com.sprint1%3AFlightManagementSystem
+ceTaskId=AXBrqGn5SZmY0PPayZgx
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXBrqGn5SZmY0PPayZgx
